@@ -368,7 +368,7 @@ textarea {
   }
   /* PRICING */
   section .price-container .price{
-    display: flex;
+    display: block;
     gap: 1rem;
     margin: 2rem 0;
   }
