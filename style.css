@@ -383,4 +383,7 @@ textarea {
   .sidebar{
     width: 100%;
   }
+  #pricing{
+   display: block;
+}
 }
